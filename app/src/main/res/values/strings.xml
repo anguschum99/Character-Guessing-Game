@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BAGuesser</string>
+    <string name="who_is_this_student">Who is this student?</string>
+    <string name="haruka">Haruka</string>
+    <string name="hatsune_miku">Hatsune Miku</string>
+    <string name="hare">Hare</string>
+    <string name="hifumi">Hifumi</string>
+    <string name="_5">%1$s/5</string>
+    <string name="congratulations">Congratulations</string>
+</resources>
